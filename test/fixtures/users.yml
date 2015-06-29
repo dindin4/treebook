@@ -2,4 +2,12 @@ din:
  first_name: "Dinesh"
  last_name: "Vijaykumar"
  email: "dindin1@live.co.uk"
- profile_name: "drdindin"
+ profile_name: "drdindin1"
+
+jim:
+ first_name: "Jim"
+ last_name: "Hoskins"
+ email: "jimhoskins@teamtreehouse.com"
+ profile_name: "jimhoskins"
+
+
